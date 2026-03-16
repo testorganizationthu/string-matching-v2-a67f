@@ -1,0 +1,8 @@
+testlib.h
+*.log
+__pycache__
+*.zip
+*.swp
+*~
+.DS_Store
+tmp

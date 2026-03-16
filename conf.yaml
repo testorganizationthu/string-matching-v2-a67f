@@ -1,0 +1,6 @@
+folder: problem
+samples:
+    - cases: '[1..2]'
+title:
+    en: String Matching v2 a67f
+version: 2
